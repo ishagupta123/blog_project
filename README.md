@@ -1,2 +1,2 @@
-# blog_project
+#chatapp_project
 Using PHP, HTML, CSS, jQuery, javaScript, mysql, Ajax, Bootstrap
